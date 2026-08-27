@@ -1,0 +1,9 @@
+{
+  "name": "zhongcheng-lvyuan-elevator-progress",
+  "version": "1.0.0",
+  "description": "中城绿苑电梯安装进度实时可视化工作平台（零依赖）",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "private": true
+}
