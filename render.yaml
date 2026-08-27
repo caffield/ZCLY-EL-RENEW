@@ -1,0 +1,13 @@
+# Render 一键部署配置
+# 在 Render（网页）新建 Web Service 并连接本仓库后会自动识别此文件
+services:
+  - type: web
+    name: zhongcheng-lvyuan-elevator
+    runtime: node
+    plan: free
+    buildCommand: "echo skip-build"
+    startCommand: "node server.js"
+    healthCheckPath: "/"
+    envVars:
+      - key: ADMIN_PASSWORD
+        sync: false   # 在 Render 面板手动填写你的编辑密码（务必改掉默认 lvyuan2026）

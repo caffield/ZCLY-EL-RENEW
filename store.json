@@ -1,0 +1,4432 @@
+{
+  "project": {
+    "name": "中城绿苑电梯加装安装进度",
+    "updatedAt": "2026-08-27T03:09:47.925Z"
+  },
+  "stages": [
+    {
+      "key": "dismantle",
+      "name": "拆梯"
+    },
+    {
+      "key": "chisel",
+      "name": "机房剔凿"
+    },
+    {
+      "key": "sample",
+      "name": "样板制作与放线"
+    },
+    {
+      "key": "roompit",
+      "name": "机房与底坑设备安装"
+    },
+    {
+      "key": "car",
+      "name": "轿厢组装与对重安装"
+    },
+    {
+      "key": "rope",
+      "name": "钢丝绳悬挂"
+    },
+    {
+      "key": "rail",
+      "name": "竖导轨"
+    },
+    {
+      "key": "door",
+      "name": "拆装层门"
+    },
+    {
+      "key": "debug",
+      "name": "收尾调试"
+    },
+    {
+      "key": "accept",
+      "name": "验收"
+    },
+    {
+      "key": "use",
+      "name": "投入使用"
+    }
+  ],
+  "buildings": [
+    {
+      "id": "east",
+      "name": "东苑",
+      "elevators": [
+        {
+          "id": "e620-1#",
+          "name": "620-1#",
+          "location": "东苑01号",
+          "arrival": "2026-09-12",
+          "stages": [
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-2#",
+          "name": "620-2#",
+          "location": "东苑02号",
+          "arrival": "2026-08-15",
+          "stages": [
+            {
+              "status": "done",
+              "progress": 100,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "in_progress",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-6#",
+          "name": "620-6#",
+          "location": "东苑06号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-7#",
+          "name": "620-7#",
+          "location": "东苑07号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-8#",
+          "name": "620-8#",
+          "location": "东苑08号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-9#",
+          "name": "620-9#",
+          "location": "东苑09号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-10#",
+          "name": "620-10#",
+          "location": "东苑10号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-12#",
+          "name": "620-12#",
+          "location": "东苑12号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-13#",
+          "name": "620-13#",
+          "location": "东苑13号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-14#",
+          "name": "620-14#",
+          "location": "东苑14号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-15#",
+          "name": "620-15#",
+          "location": "东苑15号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-16#",
+          "name": "620-16#",
+          "location": "东苑16号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-17#",
+          "name": "620-17#",
+          "location": "东苑17号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-18#",
+          "name": "620-18#",
+          "location": "东苑18号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-20#",
+          "name": "620-20#",
+          "location": "东苑20号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e620-21#",
+          "name": "620-21#",
+          "location": "东苑21号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "west",
+      "name": "西苑",
+      "elevators": [
+        {
+          "id": "e621-4#",
+          "name": "621-4#",
+          "location": "西苑04号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-5#",
+          "name": "621-5#",
+          "location": "西苑05号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-7#",
+          "name": "621-7#",
+          "location": "西苑07号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-8#",
+          "name": "621-8#",
+          "location": "西苑08号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-9#",
+          "name": "621-9#",
+          "location": "西苑09号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-10#",
+          "name": "621-10#",
+          "location": "西苑10号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-12#",
+          "name": "621-12#",
+          "location": "西苑12号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-13#",
+          "name": "621-13#",
+          "location": "西苑13号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-14#",
+          "name": "621-14#",
+          "location": "西苑14号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-15#",
+          "name": "621-15#",
+          "location": "西苑15号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-16#",
+          "name": "621-16#",
+          "location": "西苑16号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-17#",
+          "name": "621-17#",
+          "location": "西苑17号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-18#",
+          "name": "621-18#",
+          "location": "西苑18号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-19#",
+          "name": "621-19#",
+          "location": "西苑19号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-20#",
+          "name": "621-20#",
+          "location": "西苑20号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-21#",
+          "name": "621-21#",
+          "location": "西苑21号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-22#",
+          "name": "621-22#",
+          "location": "西苑22号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-23#",
+          "name": "621-23#",
+          "location": "西苑23号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-25#",
+          "name": "621-25#",
+          "location": "西苑25号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-26#",
+          "name": "621-26#",
+          "location": "西苑26号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "id": "e621-27#",
+          "name": "621-27#",
+          "location": "西苑27号",
+          "arrival": "",
+          "stages": [
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            },
+            {
+              "status": "not_started",
+              "progress": 0,
+              "planStart": "",
+              "planEnd": "",
+              "actualStart": "",
+              "actualEnd": "",
+              "owner": "",
+              "note": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
