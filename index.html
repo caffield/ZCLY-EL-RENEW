@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>中城绿苑电梯安装进度平台</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">⬆</span>
+    <div>
+      <h1 id="projName">中城绿苑电梯安装进度</h1>
+      <div class="sub">实时可视化工作平台</div>
+    </div>
+  </div>
+  <div class="status">
+    <span id="liveDot" class="dot"></span><span id="liveText">连接中…</span>
+    <span class="updated">更新于 <b id="updatedAt">--</b></span>
+    <button id="editToggle" class="btn">编辑模式</button>
+  </div>
+</header>
+
+<section class="summary" id="summary"></section>
+
+<section class="charts">
+  <div class="card">
+    <h3>整体完成率</h3>
+    <div id="donut" class="donut-wrap"></div>
+  </div>
+  <div class="card">
+    <h3>各苑完成台数</h3>
+    <div id="buildingBars"></div>
+  </div>
+</section>
+
+<main id="buildings"></main>
+
+<div id="editPanel" class="edit-panel hidden">
+  <div class="edit-head">
+    <span>编辑模式 · 输入密码后可修改进度、新增苑/电梯</span>
+    <button id="editClose" class="btn">收起</button>
+  </div>
+  <div class="edit-body">
+    <input id="adminPwd" type="password" placeholder="编辑密码" autocomplete="off">
+    <span id="pwdHint" class="hint">默认密码 lvyuan2026，上线后请用环境变量 ADMIN_PASSWORD 修改</span>
+    <button id="addBuildingBtn" class="btn small">+ 新增苑</button>
+    <button id="resetBtn" class="btn small">恢复示例数据</button>
+  </div>
+</div>
+
+<div id="modal" class="modal hidden">
+  <div class="modal-box">
+    <div class="modal-head"><h3 id="modalTitle">编辑电梯进度</h3><button id="modalClose" class="btn">✕</button></div>
+    <div id="modalBody" class="modal-body"></div>
+    <div class="modal-foot"><button id="modalSave" class="btn primary">保存</button></div>
+  </div>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
