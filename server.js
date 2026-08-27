@@ -57,7 +57,7 @@ function seedData() {
   ];
   const mkElev = (no, loc) => ({ id: 'e' + no, name: no, location: loc, arrival: '', stages: emptyStages() });
   return {
-    project: { name: '中城绿苑电梯加装安装进度', updatedAt: new Date().toISOString() },
+    project: { name: '中城绿苑电梯更新', updatedAt: new Date().toISOString() },
     stages: STAGES,
     buildings: [
       { id: 'east', name: '东苑', elevators: eastUnits.map(([no, loc]) => mkElev(no, loc)) },
