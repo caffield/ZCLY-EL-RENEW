@@ -60,7 +60,7 @@ function render() {
   if (!STATE) return;
   $('#projName').textContent = STATE.project.name;
   $('#updatedAt').textContent = fmtTime(STATE.project.updatedAt || SERVER_TIME);
-  renderSummary(); renderDonut(); renderBuildingBars(); renderBuildings();
+  renderSummary(); renderDonut(); renderBuildingBars(); renderStagesGuide(); renderBuildings();
 }
 const card = (label, val, cls = '') => `<div class="metric ${cls}"><div class="m-val">${val}</div><div class="m-label">${label}</div></div>`;
 function renderSummary() {
@@ -69,7 +69,6 @@ function renderSummary() {
   const inprog = all.filter(e => e.stages.some(s => s.status === 'in_progress')).length;
   $('#summary').innerHTML = [
     card('整体完成率', overallCompletion() + '%', 'accent'),
-    card('苑 / 电梯', STATE.buildings.length + ' / ' + all.length),
     card('已投用电梯', done),
     card('进行中', inprog),
   ].join('');
@@ -94,6 +93,12 @@ function renderBuildingBars() {
       <div class="track"><div class="fill" style="width:${ratio}%"></div></div></div>`;
   }).join('') || '<div class="empty">暂无苑</div>';
 }
+function renderStagesGuide() {
+  $('#stagesGuide').innerHTML = STATE.stages.map((st, i) =>
+    `<div class="sg-tile"><span class="sg-num">${i + 1}</span><span class="sg-name">${st.name}</span></div>`).join('');
+  $('#stagesLegend').innerHTML = Object.values(STATUS_META).map(m =>
+    `<span class="sg-leg"><span class="sg-dot" style="background:${m.color}"></span>${m.label}</span>`).join('');
+}
 function renderBuildings() {
   $('#buildings').innerHTML = STATE.buildings.map(b => {
     const v = buildingCompletion(b);
@@ -114,7 +119,7 @@ function elevatorCard(b, e) {
   const checks = STATE.stages.map((st, i) => {
     const s = e.stages[i] || {};
     const cls = s.status === 'done' ? 'ok' : (s.status === 'in_progress' ? 'doing' : 'no');
-    const mark = s.status === 'done' ? '✓' : (s.status === 'in_progress' ? '◐' : '☐');
+    const mark = s.status === 'done' ? '✓' : (s.status === 'in_progress' ? '◐' : (i + 1));
     return `<span class="chk ${cls}" title="${st.name}：${STATUS_META[s.status].label}">${mark}</span>`;
   }).join('');
   const arrivalLine = e.arrival ? `设备到场 <b>${e.arrival}</b>` : `设备到场 <span class="undated">未记录</span>`;
