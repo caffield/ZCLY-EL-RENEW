@@ -10,8 +10,12 @@ const url = require('url');
 const PORT = process.env.PORT || 3000;
 const HOST = process.env.HOST || '0.0.0.0';
 const ROOT = __dirname;
-const PUBLIC = path.join(ROOT, 'public');
-const DATA_DIR = path.join(ROOT, 'data');
+// 兼容 GitHub 直接上传:静态资源/数据可能直接在仓库根,也可能仍在 public/、data/ 子目录
+// 自动检测:子目录存在用子目录(本机开发更整洁),否则回落到仓库根(部署到 PaaS 直传的常见形态)
+const _hasPublic = fs.existsSync(path.join(ROOT, 'public'));
+const _hasData = fs.existsSync(path.join(ROOT, 'data'));
+const PUBLIC = _hasPublic ? path.join(ROOT, 'public') : ROOT;
+const DATA_DIR = _hasData ? path.join(ROOT, 'data') : ROOT;
 const DATA_FILE = path.join(DATA_DIR, 'store.json');
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'lvyuan2026';
 
