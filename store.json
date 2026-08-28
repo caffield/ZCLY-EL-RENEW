@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "中城绿苑电梯更新",
-    "updatedAt": "2026-08-27T03:09:47.925Z"
+    "updatedAt": "2026-08-27T07:01:59.012Z"
   },
   "stages": [
     {
@@ -58,11 +58,11 @@
           "id": "e620-1#",
           "name": "620-1#",
           "location": "东苑01号",
-          "arrival": "2026-09-12",
+          "arrival": "",
           "stages": [
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -71,8 +71,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -81,8 +81,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -91,8 +91,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -101,8 +101,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -111,8 +111,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -121,8 +121,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -131,8 +131,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -141,8 +141,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -151,8 +151,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -161,8 +161,8 @@
               "note": ""
             },
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -176,11 +176,11 @@
           "id": "e620-2#",
           "name": "620-2#",
           "location": "东苑02号",
-          "arrival": "2026-08-15",
+          "arrival": "",
           "stages": [
             {
-              "status": "done",
-              "progress": 100,
+              "status": "not_started",
+              "progress": 0,
               "planStart": "",
               "planEnd": "",
               "actualStart": "",
@@ -189,7 +189,7 @@
               "note": ""
             },
             {
-              "status": "in_progress",
+              "status": "not_started",
               "progress": 0,
               "planStart": "",
               "planEnd": "",
@@ -294,7 +294,7 @@
           "id": "e620-6#",
           "name": "620-6#",
           "location": "东苑06号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
@@ -884,7 +884,7 @@
           "id": "e620-12#",
           "name": "620-12#",
           "location": "东苑12号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
@@ -1356,7 +1356,7 @@
           "id": "e620-16#",
           "name": "620-16#",
           "location": "东苑16号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
@@ -1710,7 +1710,7 @@
           "id": "e620-20#",
           "name": "620-20#",
           "location": "东苑20号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
@@ -2424,7 +2424,7 @@
           "id": "e621-9#",
           "name": "621-9#",
           "location": "西苑09号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
@@ -3250,7 +3250,7 @@
           "id": "e621-17#",
           "name": "621-17#",
           "location": "西苑17号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
@@ -3368,7 +3368,7 @@
           "id": "e621-18#",
           "name": "621-18#",
           "location": "西苑18号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
@@ -3604,7 +3604,7 @@
           "id": "e621-20#",
           "name": "621-20#",
           "location": "西苑20号",
-          "arrival": "",
+          "arrival": "2026-09-12",
           "stages": [
             {
               "status": "not_started",
